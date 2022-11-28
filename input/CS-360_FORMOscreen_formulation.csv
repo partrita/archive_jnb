@@ -1,0 +1,380 @@
+﻿Name,Code,Ingredient,Category,Conc.(mg/ml)
+ Arzerra/Ofatumumab,A6,Sodium acetate,Buffer(pH),6.8
+ Avastin/Bevacizumab,A7,Sodium phosphate monobasic dihydrate,Buffer(pH),6.56
+ Avastin/Bevacizumab,A7,Sodium phosphate dibasic anhydrous,Buffer(pH),1.2
+ Arcalyst/Rilonacept,A8,L-Histidine,Buffer(pH),7.14
+ Benlysta/Belimumab,A9,Sodium citrate dihydrate,Buffer(pH),2.7
+ Benlysta/Belimumab,A9,Citric acid monohydrate,Buffer(pH),0.16
+ Eylea/Aflibercept,A11,Sodium phosphate dibasic anhydrous,Buffer(pH),1.42
+ Bexxar/Tositumomab,A12,Potassium hydroxide,Buffer(pH),1
+ Bexxar/Tositumomab,A12,Sodium phosphate monobasic dihydrate,Buffer(pH),1
+ Ajovy/Fremanezumab-Vfrm,B1,L-Histidine,Buffer(pH),0.54
+ Ajovy/Fremanezumab-Vfrm,B1,Histidine Hydrochlorid monohydrate,Buffer(pH),2.62
+ Blincyto/Blinatumomab,B2,Citric acid monohydrate,Buffer(pH),1.12
+ Campath/Alemtuzumab,B3,monobasic potassium phosphate,Buffer(pH),0.2
+ Campath/Alemtuzumab,B3,Sodium phosphate dibasic anhydrous,Buffer(pH),1.44
+ Cimzia/Certolizumab Pegol,B4,Sodium acetate,Buffer(pH),1.36
+ Evenity/Romosozumab-Aqqg,B5,Sodium acetate,Buffer(pH),3.5
+ Cinqair/Reslizumab,B6,Glacial acetic acid,Buffer(pH),0.12
+ Cinqair/Reslizumab,B6,Sodium acetate,Buffer(pH),1.48
+ Cosentyx/Secukinumab,B7,L-Histidine,Buffer(pH),4.66
+ Cosentyx/Secukinumab,B7,Histidine Hydrochlorid monohydrate,Buffer(pH),4.66
+ Crysvita/Burosumab-Twza,B8,L-Histidine,Buffer(pH),1.55
+ Cyltezo/Adalimumab-Adbm,B9,Glacial acetic acid,Buffer(pH),0.16
+ Cyltezo/Adalimumab-Adbm,B9,Sodium acetate,Buffer(pH),1.81
+ Cyramza/Ramucirumab,B10,L-Histidine,Buffer(pH),0.65
+ Cyramza/Ramucirumab,B10,Histidine Hydrochlorid monohydrate,Buffer(pH),1.22
+ Dupixent/Dupilumab,B11,L-Histidine,Buffer(pH),3.1
+ Dupixent/Dupilumab,B11,Sodium acetate,Buffer(pH),1
+ Empliciti/Elotuzumab,B12,Sodium citrate dihydrate,Buffer(pH),1.26
+ Empliciti/Elotuzumab,B12,Citric acid monohydrate,Buffer(pH),0.19
+ Entyvio/Vedolizumab,C2,L-Histidine,Buffer(pH),4.79
+ Entyvio/Vedolizumab,C2,Histidine Hydrochlorid monohydrate,Buffer(pH),4.46
+ Erbitux/Cetuximab,C3,Sodium phosphate monobasic dihydrate,Buffer(pH),0.46
+ Erbitux/Cetuximab,C3,Sodium phosphate dibasic anhydrous,Buffer(pH),1
+ Fasenra/Benralizumab,C4,L-Histidine,Buffer(pH),1.4
+ Fasenra/Benralizumab,C4,Histidine Hydrochlorid monohydrate,Buffer(pH),2.3
+ Herceptin/Trastuzumab,C6,L-Histidine,Buffer(pH),0.32
+ Herceptin/Trastuzumab,C6,Histidine Hydrochlorid monohydrate,Buffer(pH),0.5
+ Cablivi/Caplacizumab-Yhdp,C7,Sodium citrate dihydrate,Buffer(pH),4.91
+ Cablivi/Caplacizumab-Yhdp,C7,Citric acid monohydrate,Buffer(pH),0.2
+ Erelzi/Etanercept-Szzs,C8,Sodium citrate dihydrate,Buffer(pH),13.52
+ Erelzi/Etanercept-Szzs,C8,Citric acid monohydrate,Buffer(pH),0.86
+ Emgality/Galcanezumab-Gnlm,C9,L-Histidine,Buffer(pH),0.5
+ Emgality/Galcanezumab-Gnlm,C9,Histidine Hydrochlorid monohydrate,Buffer(pH),1.5
+ Ilaris/Canakinumab,C10,L-Histidine,Buffer(pH),2.8
+ Ilaris/Canakinumab,C10,Histidine Hydrochlorid monohydrate,Buffer(pH),1.7
+ Ilumya/Tildrakizumab-Asmn,C11,L-Histidine,Buffer(pH),0.5
+ Ilumya/Tildrakizumab-Asmn,C11,Histidine Hydrochlorid monohydrate,Buffer(pH),1.42
+ Imfinzi/Durvalumab,C12,L-Histidine,Buffer(pH),2
+ Imfinzi/Durvalumab,C12,Histidine Hydrochlorid monohydrate,Buffer(pH),2.7
+ Inflectra/Infliximab-Dyyb,D1,Sodium phosphate monobasic dihydrate,Buffer(pH),0.25
+ Inflectra/Infliximab-Dyyb,D1,Sodium phosphate dibasic anhydrous,Buffer(pH),0.49
+ Ixifi/Infliximab-Qbtx,D2,Disodium succinate hexahydrate,Buffer(pH),1.21
+ Ixifi/Infliximab-Qbtx,D2,Succinic Acid,Buffer(pH),0.06
+ Kadcyla/Ado-Trastuzumab Emtansine,D3,Disodium succinate hexahydrate,Buffer(pH),2.7
+ Kevzara/Sarilumab,D4,L-Histidine,Buffer(pH),3.25
+ Keytruda/Pembrolizumab,D5,L-Histidine,Buffer(pH),1.55
+ Lemtrada/Alemtuzumab,D6,monobasic potassium phosphate,Buffer(pH),0.2
+ Lemtrada/Alemtuzumab,D6,Sodium phosphate dibasic anhydrous,Buffer(pH),1.15
+ Mvasi/Bevacizumab-Awwb,D7,Sodium phosphate monobasic dihydrate,Buffer(pH),6.56
+ Mvasi/Bevacizumab-Awwb,D7,Sodium phosphate dibasic anhydrous,Buffer(pH),1.2
+ Gamifant/Emapalumab-Lzsg,D8,L-Histidine,Buffer(pH),1.55
+ Gamifant/Emapalumab-Lzsg,D8,Histidine Hydrochlorid monohydrate,Buffer(pH),3.14
+ Skyrizi/Risankizumab-Rzaa,D9,Disodium succinate hexahydrate,Buffer(pH),1.06
+ Skyrizi/Risankizumab-Rzaa,D9,Succinic Acid,Buffer(pH),0.06
+ Libtayo/Cemiplimab-Rwlc,D10,L-Histidine,Buffer(pH),0.74
+ Libtayo/Cemiplimab-Rwlc,D10,Histidine Hydrochlorid monohydrate,Buffer(pH),1.09
+ Ocrevus/Ocrelizumab,D11,Glacial acetic acid,Buffer(pH),0.25
+ Ocrevus/Ocrelizumab,D11,Sodium acetate,Buffer(pH),1.29
+ Ogivri/Trastuzumab-Dkst,D12,L-Histidine,Buffer(pH),0.3
+ Ogivri/Trastuzumab-Dkst,D12,Histidine Hydrochlorid monohydrate,Buffer(pH),0.47
+ Trazimera/Trastuzumab-Qyyp,E1,L-Histidine,Buffer(pH),0.4
+ Trazimera/Trastuzumab-Qyyp,E1,Histidine Hydrochlorid monohydrate,Buffer(pH),0.48
+ Praluent/Alirocumab,E2,L-Histidine,Buffer(pH),0.93
+ Praluent/Alirocumab,E3,L-Histidine,Buffer(pH),1.24
+ Praxbind/Idarucizumab,E4,Glacial acetic acid,Buffer(pH),0.2
+ Praxbind/Idarucizumab,E4,Sodium acetate,Buffer(pH),1.78
+ Takhzyro/Lanadelumab,E5,L-Histidine,Buffer(pH),7.8
+ Takhzyro/Lanadelumab,E5,Citric acid monohydrate,Buffer(pH),4.1
+ Takhzyro/Lanadelumab,E5,Sodium phosphate dibasic anhydrous,Buffer(pH),4.23
+ Prostascint/Capromab Pendetide,E6,Sodium acetate,Buffer(pH),41
+ Raptiva/Efalizumab,E8,L-Histidine,Buffer(pH),2.87
+ Raptiva/Efalizumab,E8,Histidine Hydrochlorid monohydrate,Buffer(pH),4.53
+ Raxibacumab/Raxibacumab,E9,Sodium citrate dihydrate,Buffer(pH),2.8
+ Raxibacumab/Raxibacumab,E9,Citric acid monohydrate,Buffer(pH),0.13
+ Remicade/Infliximab,E10,Sodium phosphate monobasic dihydrate,Buffer(pH),0.25
+ Remicade/Infliximab,E10,Sodium phosphate dibasic anhydrous,Buffer(pH),0.49
+ Renflexis/Infliximab-Abda,E11,Sodium phosphate monobasic dihydrate,Buffer(pH),0.63
+ Renflexis/Infliximab-Abda,E11,Sodium phosphate dibasic anhydrous,Buffer(pH),0.14
+ Reopro/Abciximab,E12,Sodium phosphate monobasic dihydrate,Buffer(pH),1.56
+ Repatha/Evolocumab,F1,Sodium acetate,Buffer(pH),1.2
+ Repatha/Evolocumab,F2,Sodium acetate,Buffer(pH),1.2
+ Rituxan/Rituximab,F3,Sodium citrate dihydrate,Buffer(pH),7.35
+ Simponi/Golimumab,F5,L-Histidine,Buffer(pH),0.87
+ Simponi/Golimumab,F5,Histidine Hydrochlorid monohydrate,Buffer(pH),0.87
+ Simponi Aria/Golimumab,F6,L-Histidine,Buffer(pH),0.28
+ Simponi Aria/Golimumab,F6,Histidine Hydrochlorid monohydrate,Buffer(pH),1.6
+ Soliris/Eculizumab,F7,Sodium phosphate monobasic dihydrate,Buffer(pH),0.52
+ Soliris/Eculizumab,F7,Sodium phosphate dibasic anhydrous,Buffer(pH),1.78
+ Stelara/Ustekinumab,F8,L-Histidine,Buffer(pH),0.77
+ Stelara/Ustekinumab,F8,Histidine Hydrochlorid monohydrate,Buffer(pH),1.04
+ Stelara/Ustekinumab,F9,L-Histidine,Buffer(pH),1
+ Stelara/Ustekinumab,F9,Histidine Hydrochlorid monohydrate,Buffer(pH),1
+ Synagis/Palivizumab,F10,L-Histidine,Buffer(pH),3.9
+ Taltz/Ixekizumab,F11,Sodium citrate dihydrate,Buffer(pH),5.11
+ Taltz/Ixekizumab,F11,Citric acid monohydrate,Buffer(pH),0.56
+ Ultomiris/Ravulizumab-Cwvz,F12,Sodium phosphate monobasic dihydrate,Buffer(pH),0.46
+ Ultomiris/Ravulizumab-Cwvz,F12,Sodium phosphate dibasic anhydrous,Buffer(pH),1.78
+ Tremfya/Guselkumab,G1,L-Histidine,Buffer(pH),0.6
+ Tremfya/Guselkumab,G1,Histidine Hydrochlorid monohydrate,Buffer(pH),1.5
+ Trogarzo/Ibalizumab-Uiyk,G2,L-Histidine,Buffer(pH),1.55
+ Tysabri/Natalizumab,G3,Sodium phosphate monobasic dihydrate,Buffer(pH),1.28
+ Tysabri/Natalizumab,G3,Sodium phosphate dibasic anhydrous,Buffer(pH),0.25
+ Unituxin/Dinutuximab,G4,L-Histidine,Buffer(pH),3.1
+ Vectibix/Panitumumab,G5,Sodium acetate,Buffer(pH),6.8
+ Xgeva/Denosumab,G6,Sodium acetate,Buffer(pH),1.39
+ Xgeva/Denosumab,G7,Sodium acetate,Buffer(pH),1.39
+ Cosentyx/Secukinumab,G8,L-Histidine,Buffer(pH),3.1
+ Cosentyx/Secukinumab,G8,Histidine Hydrochlorid monohydrate,Buffer(pH),3.1
+ Darzalex/Daratumumab,G9,Glacial acetic acid,Buffer(pH),0.18
+ Darzalex/Daratumumab,G9,Sodium acetate,Buffer(pH),1.79
+ Gazyva/Obinutuzumab,G10,L-Histidine,Buffer(pH),3.1
+ Gazyva/Obinutuzumab,G10,Histidine Hydrochlorid monohydrate,Buffer(pH),4.19
+ Humira/Adalimumab,G11,Sodium citrate dihydrate,Buffer(pH),0.3
+ Humira/Adalimumab,G11,Citric acid monohydrate,Buffer(pH),1.3
+ Humira/Adalimumab,G11,Sodium phosphate monobasic dihydrate,Buffer(pH),0.85
+ Humira/Adalimumab,G11,Sodium phosphate dibasic anhydrous,Buffer(pH),1.24
+ Lartruvo/Olaratumab,G12,L-Histidine,Buffer(pH),0.3
+ Lartruvo/Olaratumab,G12,Histidine Hydrochlorid monohydrate,Buffer(pH),1.7
+ Lucentis/Ranibizumab,H1,Histidine Hydrochlorid monohydrate,Buffer(pH),10
+ Opdivo/Nivolumab,H2,Pentetic acid,Buffer(pH),0.01
+ Opdivo/Nivolumab,H2,Sodium citrate dihydrate,Buffer(pH),5.88
+ Portrazza/Necitumumab,H3,Sodium citrate dihydrate,Buffer(pH),2.55
+ Portrazza/Necitumumab,H3,Citric acid monohydrate,Buffer(pH),0.28
+ Poteligeo/Mogamulizumab-Kpkc,H4,Citric acid monohydrate,Buffer(pH),0.44
+ Simulect/Basiliximab,H5,monobasic potassium phosphate,Buffer(pH),1.44
+ Simulect/Basiliximab,H5,Sodium phosphate dibasic anhydrous,Buffer(pH),0.2
+ Sylvant/Siltuximab,H6,L-Histidine,Buffer(pH),0.74
+ Xolair/Omalizumab,H7,L-Histidine,Buffer(pH),1.29
+ Adcetris/Brentuximab Vedotin,A2,Trehalose dihydrat,Sugars,70
+ Avastin/Bevacizumab,A7,Trehalose dihydrat,Sugars,60
+ Bexxar/Tositumomab,A12,Maltose monohydrate,Sugars,100
+ Blincyto/Blinatumomab,B2,Trehalose dihydrat,Sugars,31.8
+ Cyltezo/Adalimumab-Adbm,B9,Trehalose dihydrat,Sugars,81.25
+ Fasenra/Benralizumab,C4,Trehalose dihydrat,Sugars,95
+ Herceptin/Trastuzumab,C6,Trehalose dihydrat,Sugars,20
+ Imfinzi/Durvalumab,C12,Trehalose dihydrat,Sugars,104
+ Mvasi/Bevacizumab-Awwb,D7,Trehalose dihydrat,Sugars,60
+ Ocrevus/Ocrelizumab,D11,Trehalose dihydrat,Sugars,40
+ Cosentyx/Secukinumab,G8,Trehalose dihydrat,Sugars,75.67
+ Gazyva/Obinutuzumab,G10,Trehalose dihydrat,Sugars,90.8
+ Lucentis/Ranibizumab,H1,Trehalose dihydrat,Sugars,100
+ Actemra/Tocilizumab,A1,Sucrose,Sugars,50
+ Aimovig/Erenumab-Aooe,A3,Sucrose,Sugars,73
+ Amjevita/Adalimumab-Atto,A4,Sucrose,Sugars,90
+ Anthim/Obiltoxaximab,A5,Sorbitol,Sugars,36
+ Arcalyst/Rilonacept,A8,Sucrose,Sugars,20
+ Benlysta/Belimumab,A9,Sucrose,Sugars,80
+ Besponsa/Inotuzumab Ozogamicin,A10,Sucrose,Sugars,45
+ Eylea/Aflibercept,A11,Sucrose,Sugars,50
+ Ajovy/Fremanezumab-Vfrm,B1,Sucrose,Sugars,66
+ Evenity/Romosozumab-Aqqg,B5,Sucrose,Sugars,59.8
+ Cinqair/Reslizumab,B6,Sucrose,Sugars,70
+ Cosentyx/Secukinumab,B7,Sucrose,Sugars,92.43
+ Crysvita/Burosumab-Twza,B8,Sorbitol,Sugars,45.91
+ Dupixent/Dupilumab,B11,Sucrose,Sugars,50
+ Empliciti/Elotuzumab,B12,Sucrose,Sugars,38.82
+ Enbrel/Etanercept,C1,Sucrose,Sugars,10
+ Entyvio/Vedolizumab,C2,Sucrose,Sugars,104.17
+ Cablivi/Caplacizumab-Yhdp,C7,Sucrose,Sugars,62
+ Erelzi/Etanercept-Szzs,C8,Sucrose,Sugars,10
+ Ilaris/Canakinumab,C10,Sucrose,Sugars,92.4
+ Ilumya/Tildrakizumab-Asmn,C11,Sucrose,Sugars,70
+ Inflectra/Infliximab-Dyyb,D1,Sucrose,Sugars,50
+ Ixifi/Infliximab-Qbtx,D2,Sucrose,Sugars,25
+ Kadcyla/Ado-Trastuzumab Emtansine,D3,Sucrose,Sugars,60
+ Kevzara/Sarilumab,D4,Sucrose,Sugars,50
+ Keytruda/Pembrolizumab,D5,Sucrose,Sugars,70
+ Skyrizi/Risankizumab-Rzaa,D9,Sorbitol,Sugars,40
+ Libtayo/Cemiplimab-Rwlc,D10,Sucrose,Sugars,50
+ Ogivri/Trastuzumab-Dkst,D12,Sorbitol,Sugars,16.13
+ Trazimera/Trastuzumab-Qyyp,E1,Sucrose,Sugars,19.3
+ Praluent/Alirocumab,E2,Sucrose,Sugars,100
+ Praluent/Alirocumab,E3,Sucrose,Sugars,100
+ Praxbind/Idarucizumab,E4,Sorbitol,Sugars,40.08
+ Raptiva/Efalizumab,E8,Sucrose,Sugars,82.13
+ Raxibacumab/Raxibacumab,E9,Sucrose,Sugars,10
+ Remicade/Infliximab,E10,Sucrose,Sugars,50
+ Renflexis/Infliximab-Abda,E11,Sucrose,Sugars,50
+ Simponi/Golimumab,F5,Sorbitol,Sugars,41
+ Simponi Aria/Golimumab,F6,Sorbitol,Sugars,45
+ Stelara/Ustekinumab,F8,Sucrose,Sugars,85
+ Stelara/Ustekinumab,F9,Sucrose,Sugars,76
+ Tremfya/Guselkumab,G1,Sucrose,Sugars,79
+ Trogarzo/Ibalizumab-Uiyk,G2,Sucrose,Sugars,52.03
+ Xgeva/Denosumab,G6,Sorbitol,Sugars,47
+ Xgeva/Denosumab,G7,Sorbitol,Sugars,47
+ Darzalex/Daratumumab,G9,Mannitol,Sugars,25.5
+ Humira/Adalimumab,G11,Mannitol,Sugars,12
+ Lartruvo/Olaratumab,G12,Mannitol,Sugars,13.7
+ Opdivo/Nivolumab,H2,Mannitol,Sugars,30
+ Portrazza/Necitumumab,H3,Mannitol,Sugars,9.11
+ Simulect/Basiliximab,H5,Sucrose,Sugars,4
+ Simulect/Basiliximab,H5,Mannitol,Sugars,16
+ Sylvant/Siltuximab,H6,Sucrose,Sugars,33.85
+ Xolair/Omalizumab,H7,Sucrose,Sugars,103.93
+ Yervoy/Ipilimumab,H8,Mannitol,Sugars,10
+ Nulojix/Belatacept,H10,Sucrose,Sugars,47.62
+ Campath/Alemtuzumab,B3,Sodium Chloride,Salts,8
+ Arzerra/Ofatumumab,A6,Sodium chloride,Salts,2.98
+ Besponsa/Inotuzumab Ozogamicin,A10,Sodium chloride,Salts,0.54
+ Eylea/Aflibercept,A11,Sodium chloride,Salts,2.34
+ Bexxar/Tositumomab,A12,Sodium chloride,Salts,8.5
+ Campath/Alemtuzumab,B3,Potassium chloride,Salts,0.2
+ Cimzia/Certolizumab Pegol,B4,Sodium chloride,Salts,7.31
+ Cyramza/Ramucirumab,B10,Sodium chloride,Salts,4.38
+ Enbrel/Etanercept,C1,Sodium chloride,Salts,7.01
+ Erbitux/Cetuximab,C3,Sodium chloride,Salts,8.48
+ Erelzi/Etanercept-Szzs,C8,Sodium chloride,Salts,1.5
+ Emgality/Galcanezumab-Gnlm,C9,Sodium chloride,Salts,8.8
+ Lemtrada/Alemtuzumab,D6,Sodium chloride,Salts,8
+ Lemtrada/Alemtuzumab,D6,Potassium chloride,Salts,0.2
+ Gamifant/Emapalumab-Lzsg,D8,Sodium chloride,Salts,7.3
+ Takhzyro/Lanadelumab,E5,Sodium chloride,Salts,5.3
+ Reopro/Abciximab,E12,Sodium chloride,Salts,8.77
+ Rituxan/Rituximab,F3,Sodium chloride,Salts,9
+ Soliris/Eculizumab,F7,Sodium chloride,Salts,8.77
+ Synagis/Palivizumab,F10,Sodium chloride,Salts,0.5
+ Taltz/Ixekizumab,F11,Sodium chloride,Salts,11.69
+ Ultomiris/Ravulizumab-Cwvz,F12,Sodium chloride,Salts,8.77
+ Trogarzo/Ibalizumab-Uiyk,G2,Sodium chloride,Salts,3.04
+ Tysabri/Natalizumab,G3,Sodium chloride,Salts,8.2
+ Unituxin/Dinutuximab,G4,Sodium chloride,Salts,8.77
+ Vectibix/Panitumumab,G5,Sodium chloride,Salts,5.85
+ Darzalex/Daratumumab,G9,Sodium chloride,Salts,3.5
+ Humira/Adalimumab,G11,Sodium chloride,Salts,6.15
+ Lartruvo/Olaratumab,G12,Sodium chloride,Salts,2.9
+ Opdivo/Nivolumab,H2,Sodium chloride,Salts,2.92
+ Portrazza/Necitumumab,H3,Sodium chloride,Salts,2.34
+ Simulect/Basiliximab,H5,Sodium chloride,Salts,0.32
+ Yervoy/Ipilimumab,H8,Sodium chloride,Salts,5.85
+ Zenapax/Daclizumab,H9,Sodium chloride,Salts,4.6
+ Nulojix/Belatacept,H10,Sodium chloride,Salts,0.55
+ Zinbryta/Daclizumab,H11,Sodium chloride,Salts,5.84
+ Zinplava/Bezlotoxumab,H12,Sodium chloride,Salts,8.77
+ Arzerra/Ofatumumab,A6,Na2-EDTA ,Detergents,0.02
+ Arcalyst/Rilonacept,A8,PEG-3350,Detergents,30
+ Ajovy/Fremanezumab-Vfrm,B1,Na2-EDTA ,Detergents,0.17
+ Campath/Alemtuzumab,B3,Na2-EDTA ,Detergents,0.02
+ Hemlibra/Emicizumab-Kxwh,C5,Poloxamer 188,Detergents,0.5
+ Lemtrada/Alemtuzumab,D6,Na2-EDTA ,Detergents,0.02
+ Ogivri/Trastuzumab-Dkst,D12,PEG-3350,Detergents,4.7
+ Stelara/Ustekinumab,F8,Na2-EDTA ,Detergents,0.02
+ Gazyva/Obinutuzumab,G10,Poloxamer 188,Detergents,0.2
+ Actemra/Tocilizumab,A1,Polysorbate 80,Detergents,0.5
+ Adcetris/Brentuximab Vedotin,A2,Polysorbate 80,Detergents,0.2
+ Aimovig/Erenumab-Aooe,A3,Polysorbate 80,Detergents,0.1
+ Amjevita/Adalimumab-Atto,A4,Polysorbate 80,Detergents,1
+ Anthim/Obiltoxaximab,A5,Polysorbate 80,Detergents,0.1
+ Arzerra/Ofatumumab,A6,Polysorbate 80,Detergents,0.2
+ Avastin/Bevacizumab,A7,Polysorbate 20,Detergents,0.4
+ Benlysta/Belimumab,A9,Polysorbate 80,Detergents,0.4
+ Besponsa/Inotuzumab Ozogamicin,A10,Polysorbate 80,Detergents,0.09
+ Eylea/Aflibercept,A11,Polysorbate 20,Detergents,0.3
+ Ajovy/Fremanezumab-Vfrm,B1,Polysorbate 80,Detergents,0.2
+ Blincyto/Blinatumomab,B2,Polysorbate 80,Detergents,0.21
+ Campath/Alemtuzumab,B3,Polysorbate 80,Detergents,0.1
+ Evenity/Romosozumab-Aqqg,B5,Polysorbate 20,Detergents,0.06
+ Cosentyx/Secukinumab,B7,Polysorbate 80,Detergents,0.6
+ Crysvita/Burosumab-Twza,B8,Polysorbate 80,Detergents,0.5
+ Cyltezo/Adalimumab-Adbm,B9,Polysorbate 80,Detergents,1
+ Cyramza/Ramucirumab,B10,Polysorbate 80,Detergents,0.1
+ Dupixent/Dupilumab,B11,Polysorbate 80,Detergents,2
+ Empliciti/Elotuzumab,B12,Polysorbate 80,Detergents,0.26
+ Entyvio/Vedolizumab,C2,Polysorbate 80,Detergents,0.62
+ Fasenra/Benralizumab,C4,Polysorbate 20,Detergents,0.06
+ Herceptin/Trastuzumab,C6,Polysorbate 20,Detergents,0.09
+ Cablivi/Caplacizumab-Yhdp,C7,Polysorbate 80,Detergents,0.1
+ Emgality/Galcanezumab-Gnlm,C9,Polysorbate 80,Detergents,0.5
+ Ilaris/Canakinumab,C10,Polysorbate 80,Detergents,0.6
+ Ilumya/Tildrakizumab-Asmn,C11,Polysorbate 80,Detergents,0.5
+ Imfinzi/Durvalumab,C12,Polysorbate 80,Detergents,0.2
+ Inflectra/Infliximab-Dyyb,D1,Polysorbate 80,Detergents,0.05
+ Ixifi/Infliximab-Qbtx,D2,Polysorbate 80,Detergents,0.05
+ Kadcyla/Ado-Trastuzumab Emtansine,D3,Polysorbate 20,Detergents,0.2
+ Kevzara/Sarilumab,D4,Polysorbate 20,Detergents,2
+ Keytruda/Pembrolizumab,D5,Polysorbate 80,Detergents,0.2
+ Lemtrada/Alemtuzumab,D6,Polysorbate 80,Detergents,0.1
+ Mvasi/Bevacizumab-Awwb,D7,Polysorbate 20,Detergents,0.34
+ Gamifant/Emapalumab-Lzsg,D8,Polysorbate 80,Detergents,0.05
+ Skyrizi/Risankizumab-Rzaa,D9,Polysorbate 20,Detergents,0.17
+ Libtayo/Cemiplimab-Rwlc,D10,Polysorbate 80,Detergents,2
+ Ocrevus/Ocrelizumab,D11,Polysorbate 20,Detergents,0.2
+ Trazimera/Trastuzumab-Qyyp,E1,Polysorbate 20,Detergents,0.08
+ Praluent/Alirocumab,E2,Polysorbate 20,Detergents,0.02
+ Praluent/Alirocumab,E3,Polysorbate 20,Detergents,0.1
+ Praxbind/Idarucizumab,E4,Polysorbate 20,Detergents,0.2
+ Takhzyro/Lanadelumab,E5,Polysorbate 80,Detergents,0.1
+ Raptiva/Efalizumab,E8,Polysorbate 20,Detergents,2
+ Raxibacumab/Raxibacumab,E9,Polysorbate 80,Detergents,0.2
+ Remicade/Infliximab,E10,Polysorbate 80,Detergents,0.05
+ Renflexis/Infliximab-Abda,E11,Polysorbate 80,Detergents,0.05
+ Reopro/Abciximab,E12,Polysorbate 80,Detergents,0.01
+ Repatha/Evolocumab,F1,Polysorbate 80,Detergents,0.1
+ Repatha/Evolocumab,F2,Polysorbate 80,Detergents,0.1
+ Rituxan/Rituximab,F3,Polysorbate 80,Detergents,0.7
+ Siliq/Brodalumab,F4,Polysorbate 20,Detergents,0.1
+ Simponi/Golimumab,F5,Polysorbate 80,Detergents,0.15
+ Simponi Aria/Golimumab,F6,Polysorbate 80,Detergents,0.15
+ Soliris/Eculizumab,F7,Polysorbate 80,Detergents,0.22
+ Stelara/Ustekinumab,F8,Polysorbate 80,Detergents,0.4
+ Stelara/Ustekinumab,F9,Polysorbate 80,Detergents,0.04
+ Synagis/Palivizumab,F10,Polysorbate 80,Detergents,0.3
+ Ultomiris/Ravulizumab-Cwvz,F12,Polysorbate 80,Detergents,0.2
+ Tremfya/Guselkumab,G1,Polysorbate 80,Detergents,0.5
+ Trogarzo/Ibalizumab-Uiyk,G2,Polysorbate 80,Detergents,0.45
+ Tysabri/Natalizumab,G3,Polysorbate 80,Detergents,0.2
+ Unituxin/Dinutuximab,G4,Polysorbate 20,Detergents,0.5
+ Xgeva/Denosumab,G7,Polysorbate 20,Detergents,0.1
+ Cosentyx/Secukinumab,G8,Polysorbate 80,Detergents,0.2
+ Darzalex/Daratumumab,G9,Polysorbate 20,Detergents,0.4
+ Humira/Adalimumab,G11,Polysorbate 80,Detergents,1
+ Lartruvo/Olaratumab,G12,Polysorbate 20,Detergents,0.2
+ Lucentis/Ranibizumab,H1,Polysorbate 20,Detergents,0.1
+ Opdivo/Nivolumab,H2,Polysorbate 80,Detergents,0.2
+ Portrazza/Necitumumab,H3,Polysorbate 80,Detergents,0.1
+ Poteligeo/Mogamulizumab-Kpkc,H4,Polysorbate 80,Detergents,0.2
+ Sylvant/Siltuximab,H6,Polysorbate 80,Detergents,0.16
+ Xolair/Omalizumab,H7,Polysorbate 20,Detergents,0.36
+ Yervoy/Ipilimumab,H8,Polysorbate 80,Detergents,0.1
+ Zenapax/Daclizumab,H9,Polysorbate 80,Detergents,0.2
+ Zinbryta/Daclizumab,H11,Polysorbate 80,Detergents,0.3
+ Zinplava/Bezlotoxumab,H12,Polysorbate 80,Detergents,0.25
+ Actemra/Tocilizumab,A1,Sodium phosphate monobasic dihydrate,Buffer(pH),2.34
+ Actemra/Tocilizumab,A1,Sodium phosphate dibasic anhydrous,Buffer(pH),2.13
+ Adcetris/Brentuximab Vedotin,A2,Sodium citrate dihydrate,Buffer(pH),5.6
+ Adcetris/Brentuximab Vedotin,A2,Citric acid monohydrate,Buffer(pH),0.21
+ Aimovig/Erenumab-Aooe,A3,Sodium acetate,Buffer(pH),1.5
+ Amjevita/Adalimumab-Atto,A4,Glacial acetic acid,Buffer(pH),0.6
+ Anthim/Obiltoxaximab,A5,L-Histidine,Buffer(pH),6.2
+ Besponsa/Inotuzumab Ozogamicin,A10,Tromethamine,Buffer(pH),2.16
+ Prostascint/Capromab Pendetide,E7,PBS,Buffer(pH),
+ Xolair/Omalizumab,H7,Histidine Hydrochlorid monohydrate,Buffer(pH),2
+ Yervoy/Ipilimumab,H8,Pentetic acid,Buffer(pH),0.04
+ Yervoy/Ipilimumab,H8,Tris hydrochloride,Buffer(pH),3.15
+ Zenapax/Daclizumab,H9,Sodium phosphate monobasic dihydrate,Buffer(pH),4.07
+ Zenapax/Daclizumab,H9,Sodium phosphate dibasic anhydrous,Buffer(pH),5.82
+ Nulojix/Belatacept,H10,Sodium phosphate monobasic dihydrate,Buffer(pH),3.29
+ Zinbryta/Daclizumab,H11,Disodium succinate hexahydrate,Buffer(pH),9.9
+ Zinbryta/Daclizumab,H11,Succinic Acid,Buffer(pH),0.35
+ Zinplava/Bezlotoxumab,H12,Pentetic acid,Buffer(pH),0.01
+ Zinplava/Bezlotoxumab,H12,Sodium citrate dihydrate,Buffer(pH),4.75
+ Zinplava/Bezlotoxumab,H12,Citric acid monohydrate,Buffer(pH),0.8
+ Erelzi/Etanercept-Szzs,C8,Lysine hydrochloride,Amino acids,5.75
+ Kevzara/Sarilumab,D4,L-Arginine,Amino acids,7.84
+ Arzerra/Ofatumumab,A6,L-Arginine,Amino acids,10
+ Arcalyst/Rilonacept,A8,L-Arginine,Amino acids,8.71
+ Blincyto/Blinatumomab,B2,Lysine hydrochloride,Amino acids,7.74
+ Crysvita/Burosumab-Twza,B8,L-Methionine,Amino acids,1.49
+ Dupixent/Dupilumab,B11,L-Arginine hydrochloride,Amino acids,5.25
+ Enbrel/Etanercept,C1,L-Arginine hydrochloride,Amino acids,5.27
+ Hemlibra/Emicizumab-Kxwh,C5,L-Arginine,Amino acids,26.1
+ Hemlibra/Emicizumab-Kxwh,C5,L-Arginine hydrochloride,Amino acids,26.1
+ Stelara/Ustekinumab,F8,L-Methionine,Amino acids,0.4
+ Cosentyx/Secukinumab,G8,L-Methionine,Amino acids,0.75
+ Arcalyst/Rilonacept,A8,Glycine,Amino acids,10
+ Cyramza/Ramucirumab,B10,Glycine,Amino acids,9.98
+ Libtayo/Cemiplimab-Rwlc,D10,Proline,Amino acids,15
+ Raxibacumab/Raxibacumab,E9,Glycine,Amino acids,18
+ Repatha/Evolocumab,F1,Proline,Amino acids,25.4
+ Repatha/Evolocumab,F2,Proline,Amino acids,25
+ Siliq/Brodalumab,F4,Proline,Amino acids,24
+ Siliq/Brodalumab,F4,Glutamate,Amino acids,4.33
+ Synagis/Palivizumab,F10,Glycine,Amino acids,0.1
+ Lartruvo/Olaratumab,G12,Glycine,Amino acids,7.5
+ Portrazza/Necitumumab,H3,Glycine,Amino acids,9.98
+ Poteligeo/Mogamulizumab-Kpkc,H4,Glycine,Amino acids,22.5
+ Simulect/Basiliximab,H5,Glycine,Amino acids,8
+ Evenity/Romosozumab-Aqqg,B5,Calcium chloride,Salts,0.52
+ Hemlibra/Emicizumab-Kxwh,C5,L-Histidine,Buffer(pH),3.1
